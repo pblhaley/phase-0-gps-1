@@ -10,5 +10,5 @@
 
 [Links like this one](http://www.google.com)
 
-These Three people:
+These Two People:
 ![Peter and Cate](cate-peter.png)
