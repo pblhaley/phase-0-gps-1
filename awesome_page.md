@@ -1,6 +1,6 @@
 # Our Awesome Page!
 
-##**Things We Think Are Awesome**
+##Things We Think Are Awesome
 
 `code blocks`
 
@@ -10,4 +10,5 @@
 
 [Links like this one](http://www.google.com)
 
+These two people:
 ![Peter and Cate](cate-peter.png)
