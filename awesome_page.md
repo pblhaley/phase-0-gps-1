@@ -8,7 +8,7 @@
 
 *emphasized typeface*
 
-[Links like this one](http://www.wikipedia.com)
+[Links like this one](http://www.google.com)
 
-These two people:
+These Three people:
 ![Peter and Cate](cate-peter.png)
