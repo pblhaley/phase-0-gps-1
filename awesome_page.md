@@ -1,6 +1,6 @@
 # Our Awesome Page!
 
-##Things We Think Are Awesome
+## Things We Think Are Awesome
 
 `code blocks`
 
