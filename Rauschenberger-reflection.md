@@ -10,7 +10,7 @@
 
 **What questions did you ask your pair and the guide?**
 
-*I actually am having trouble remembering specific questions I asked. Peter was great answering simple clarification questions. It was also really interesting to here Ryan explain how branching works in a real world scenario-- how there would be a prod-master branch, a dev branch, and the features off the dev branch. Feature branches merge collectively into the dev branch where the whole project can be tested before merging with the live site.*
+*I actually am having trouble remembering specific questions I asked. Peter was great answering simple clarification questions. It was also really interesting to hear Ryan explain how branching works in a real world scenario-- how there would be a prod-master branch, a dev branch, and the features off the dev branch. Feature branches merge collectively into the dev branch where the whole project can be tested before merging with the live site.*
 
 **What still confuses you about Git?**
 
